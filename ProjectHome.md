@@ -1,0 +1,2 @@
+开发windows时要先把h.lib.dll文件放好，就是个bat用来快速拷贝
+glut库和glew库
